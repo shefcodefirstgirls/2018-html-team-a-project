@@ -1,0 +1,21 @@
+body{
+  text-align: center;
+  color: #cfd1c8;
+  font-family: helvetica;
+  background: url("https://images.unsplash.com/photo-1517433367423-c7e5b0f35086?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=673ebbb553ca2a99dfe24b4bc9f2e492&auto=format&fit=crop&w=500&q=60");
+  background-size: cover;
+  background-position: center;
+}
+header{
+  padding: 70px 0px 0px 0px;
+}
+ul{
+  text-align: left;
+}
+li{
+  display: inline;
+  padding:0px 20px 5px 20px;
+  font-size:20px;
+  text-align: center;
+  background-color: #edece8;
+}

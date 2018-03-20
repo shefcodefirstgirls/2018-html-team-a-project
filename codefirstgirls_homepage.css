@@ -1,0 +1,61 @@
+html{
+  background: url('https://images.unsplash.com/photo-1422207239328-29f83832206c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6f00eac866bbea1b6ab3d19ddb2de6fd&auto=format&fit=crop&w=679&q=80') no-repeat center center fixed;
+  background-size: cover;
+}
+
+h1{
+  color:#cfd1c8;
+  text-align: center;
+  font-size: 65px;
+  font-family:"Arial Black", Gadget, sans-serif;
+}
+h2{
+  color:#e5e087;
+  size:30px;
+}
+p{
+  color: #cfd1c8;
+  text-align:left;
+  font-size: 18px;
+
+}
+
+header{
+
+	margin:5px auto 40px;
+	text-align: center;
+	padding: 10px;
+	width: 750px;
+	/* The below allows you to set transparency of the background -
+	you put in the red green and blue values and then the transparency (alpha)
+	 which can range from 0 to 1 */
+	background: rgba(0,0,0,0.4);
+ }
+ ul{
+   opacity: 0.7;
+ }
+ li{
+   display: inline;
+   padding:0px 20px 5px 20px;
+   font-size:20px;
+   text-align: center;
+   background-color: #cfd1c8;
+ }
+
+div{
+  margin-top:200px; margin-left: 230px;
+	text-align: center;
+	padding: 10px 30px 10px 30px;
+	width: 750px;
+	/* The below allows you to set transparency of the background -
+	you put in the red green and blue values and then the transparency (alpha)
+	 which can range from 0 to 1 */
+	background: rgba(0,0,0,0.4);
+}
+p{
+  background-color: #cfd1c8;
+  opacity:0.6;
+  color: black;
+  padding: 10px 5px 10px 5px;
+  margin-top: 50px;
+}
